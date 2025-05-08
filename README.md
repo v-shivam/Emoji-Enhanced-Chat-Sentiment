@@ -1,7 +1,8 @@
 
 # Emoji-Enhanced Chat Sentiment
 **By Shivam Vishwakarma**
-
+---
+**Youtube** - https://youtu.be/ISQEcSz-uyE?si=c9DChOwjFREbSn46 
 ---
 
 ## Motivation
